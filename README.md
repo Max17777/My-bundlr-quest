@@ -14,8 +14,8 @@ For our second developer quest, we're going bigger: we're building a full social
 
 ## Time Requirements
 
-**Prep time**: 30 minutes
-**Build time**: 60 minutes
+**Prep time**: 30~45 minutes
+**Build time**: 60~65 minutes
 
 ## Prerequisites
 
@@ -62,7 +62,7 @@ We prepared this quest in both written and video forms to make sure there's some
 
 ### Mainnet vs Testnet
 
-![](https://i.imgur.com/UHahmKx.png)
+! (https://i.imgur.com/UHahmKx.png)
 
 When working with Lens, you need to have a handle, each wallet address can have multiple handles. However, only one handle will be active at a given time. Handle names are immutable, once you pick one you can't change it.
 
@@ -74,7 +74,7 @@ We'll build OnlyBundlr on the testnet.
 
 ## Project Setup
 
-(TODO: Update URLS once the project is moved to Bundlr GitHub)
+(TO DO: Update URLS once the project is moved to Bundlr GitHub)
 
 Think of this quest like a coloring book. Just as a coloring book creates structure for you to make art, we've created a framework project you'll use to build a full application. The pieces you build will help you learn how to build with Bundlr and Lens.
 
@@ -1654,4 +1654,5 @@ Once you're done, [upload your project to GitHub](https://docs.github.com/en/get
 
 Finally, share your work on Twitter with the hashtags `#Bundlr` and `#BundlrDeveloperQuests`, and [submit to us via this form.](https://forms.gle/BHP2UgmDqw1hPDZy5)
 
-Starting the first week of TODO, 2023 and then every week after, we'll review submissions and whitelist successful submissions for the Bundlr Quest 2 NFT.
+Starting the first week of TO DO, 2023 and then every week after, we'll review submissions and whitelist successful submissions for the Bundlr Quest 2 NFT.
+The quest is still relevant in 2024 :)
